@@ -7,5 +7,6 @@
 Use [brewdler](https://github.com/andrew/brewdler) to install homebrew libraries on clean Mac
 
 ```
+$ gem install brewdler
 $ brewdle install
 ```
